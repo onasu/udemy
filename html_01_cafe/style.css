@@ -24,7 +24,8 @@ font-size: 14px;
 line-height: 28px;}
 
 .cafe-features {
-display: flex;}
+display: flex;
+margin-bottom: 100px;}
 
 .cafe-feature img
 {width: 179px;
@@ -39,10 +40,11 @@ font-size: 20px;
 .cafe-description{
 width: 772px;
 margin: 0 auto;
+padding: 0 80px 80px 80px;
 }
 .cafe-description img{
 width: 80px;
-margin: 0 auto;
+margin: 0 auto 8px auto;
 display: block;
 }
 
