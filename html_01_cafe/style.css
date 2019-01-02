@@ -57,3 +57,19 @@ font-size: 20px;
 font-size: 14px;
 line-height: 28px;
 }
+
+.cafe-menu{
+background-image: url(./images/menu/bkg.cafe.jpg);
+padding: 165px 0;
+}
+
+.cafe-menu-innner{
+width: 769px;
+margin: 0 auto;
+background-color: rgba(255,255,255,0.81);
+padding: 18px;
+}
+
+.cafe-menu-innner h3{
+margin-top: 0;
+}
