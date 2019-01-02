@@ -6,6 +6,7 @@ margin: 0% auto;}
 text-align: right;
 }
 
+
 html,body,div{
 margin: 0px;
 box-sizing: border-box;}
@@ -67,19 +68,47 @@ background-image: url(./images/menu/bkg.cafe.jpg);
 padding: 165px 0;
 }
 
-.cafe-menu-innner{
+.cafe-menu-inner{
 width: 769px;
 margin: 0 auto;
 background-color: rgba(255,255,255,0.81);
 padding: 18px;
 }
 
-.cafe-menu-innner h3{
+.cafe-menu-inner h3{
 margin-top: 0;
 text-align: center;
+font-size: 24px;
+letter-spacing: 2.4;
+font-weight: normal;
 }
 
-.cafe-menu-innner table{
+.cafe-menu-inner table{
 width: 540px;
 margin:0 auto;
+}
+
+.dinner-menu{
+background-image: url(./images/menu/menu/bkg.wine.jpg);
+padding: 165px 0;
+}
+
+.dinner-menu-inner{
+width: 769px;
+margin: 0 auto;
+padding: 18px;
+background-color: rgba(255,255,255,0.8);
+}
+
+.dinner-menu-inner h3{
+margin-top: 0px;
+text-align: center;
+font-size: 24px;
+letter-spacing: 2.4;
+font-weight: normal;
+}
+
+.dinner-menu-inner table{
+width: 540px;
+margin: 0 auto;
 }
