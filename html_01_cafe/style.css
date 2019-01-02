@@ -2,6 +2,10 @@
 width: 1140px;
 margin: 0% auto;}
 
+.text-right{
+text-align: right;
+}
+
 html,body,div{
 margin: 0px;
 box-sizing: border-box;}
@@ -72,4 +76,10 @@ padding: 18px;
 
 .cafe-menu-innner h3{
 margin-top: 0;
+text-align: center;
+}
+
+.cafe-menu-innner table{
+width: 540px;
+margin:0 auto;
 }
