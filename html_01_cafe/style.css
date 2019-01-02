@@ -112,3 +112,18 @@ font-weight: normal;
 width: 540px;
 margin: 0 auto;
 }
+
+.cafe-information{
+width: 788px;
+margin:0 auto;
+}
+
+.cafe-information-colum{
+display: flex;
+align-items: center;
+}
+
+.cafe-information-colum-right{
+width: 482px;
+padding: 80px 32px;
+}
