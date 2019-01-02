@@ -1,17 +1,22 @@
 .container{width: 1140px;margin: 0% auto;}
 
-html,body,div{margin: 0px;}
+html,body,div{margin: 0px;
+box-sizing: border-box;}
 
 .hero-image {width: 100%;}
 .cofee-image {width: 100%;}
 .menu-image {width: 100%;}
 
-.cafe-feature {box-shadow: 0 4px 4px rgba(0,0,0, 0.1)
-    ;padding:32px 32px; }
+.cafe-feature {box-shadow: 0 4px 4px rgba(0,0,0, 0.1);
+;width: 520px;padding: 32px 32px;} 
 .cafe-features {display: flex;}
 
 .cafe-feature img
-{width: 140px;
+{width: 179px;
 margin:0 auto;
 display:block;}
+
+.cafe-feature-tytle{
+    text-align: center;
+}
 
