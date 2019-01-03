@@ -170,4 +170,12 @@ font-weight: bold;
 text-align: center;
 border-bottom: 1px solid #000000;
 padding-bottom: 16px;
+margin-bottom: 12px;
+}
+
+.cafe-inquiry p{
+font-size: 30px;
+text-align: center;
+margin: 0;
+letter-spacing: 3px;
 }
