@@ -161,7 +161,7 @@ margin:0 auto 30px auto;
 
 .cafe-inquiry{
 width: 320px;
-margin: 0 auto;
+margin: 0 auto 30px auto;
 }
 
 .cafe-inquiry h5{
@@ -178,4 +178,8 @@ font-size: 30px;
 text-align: center;
 margin: 0;
 letter-spacing: 3px;
+}
+
+.instagram{
+text-align: center;
 }
