@@ -91,6 +91,7 @@ margin:0 auto;
 .dinner-menu{
 background-image: url(./images/menu/menu/bkg.wine.jpg);
 padding: 165px 0;
+margin-bottom: 100px;
 }
 
 .dinner-menu-inner{
@@ -115,7 +116,14 @@ margin: 0 auto;
 
 .cafe-information{
 width: 788px;
-margin:0 auto;
+margin:0 auto 32px auto;
+}
+
+.cafe-information h3{
+font-size: 24px;
+font-weight: normal;
+text-align: center;
+margin-bottom: 40p;
 }
 
 .cafe-information-colum{
@@ -125,7 +133,8 @@ align-items: center;
 
 .cafe-information-colum-right{
 width: 482px;
-padding: 80px 32px;
+padding: 38px 32px;
+border-left: 1px solid #000000;
 }
 
 .cafe-information-colum-right h5{
