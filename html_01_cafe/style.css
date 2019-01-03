@@ -182,4 +182,22 @@ letter-spacing: 3px;
 
 .instagram{
 text-align: center;
+margin-bottom: 100px;
+}
+
+.instagram p{
+font-size: 14px;
+color: #B82A9C;
+font-weight: bold;
+}
+
+.footer{
+background-color: #000000;
+padding: 16px 8px;
+}
+
+.footer p{
+color: aliceblue;
+font-size: 12px;
+margin: 0;
 }
