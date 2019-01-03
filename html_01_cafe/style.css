@@ -153,3 +153,21 @@ line-height: 20px;
 .cafe-information-logo{
 padding: 0 90px;
 }
+
+.cafe-map{
+width: 788px;
+margin:0 auto 30px auto;
+}
+
+.cafe-inquiry{
+width: 320px;
+margin: 0 auto;
+}
+
+.cafe-inquiry h5{
+font-size: 16px;
+font-weight: bold;
+text-align: center;
+border-bottom: 1px solid #000000;
+padding-bottom: 16px;
+}
